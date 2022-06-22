@@ -10,7 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [http://portofolio-gema.netlify.app](http://portofolio-gema.netlify.app)
 
-- 💬 Ask me about **Website , Andorid ,MEARN**
+- 💬 Ask me about **Website ,
+Android,MEARN**
 
 - 📫 How to reach me **bangkigem23@gmail.com**
 
