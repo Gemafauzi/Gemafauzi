@@ -31,6 +31,4 @@
 
 <p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=gemafauzi&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="gemafauzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemafauzi&&theme=midnight-purple" alt="gemafauzi" /></p>
-
 ![Snake animation](github-user-contribution.svg#gh-dark-mode-only)
