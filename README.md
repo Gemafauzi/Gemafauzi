@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rifki Gema Fauzi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/wolf-icegif-3.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/ff/50/e4ff500db4be8050bd50cf3dd098519e.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemafauzi&label=Profile%20views&color=0e75b6&style=flat" alt="gemafauzi" /> </p>
 
