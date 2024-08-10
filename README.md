@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/ff/50/e4ff500db4be8050bd50cf3dd098519e.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemafauzi&label=Profile%20views&color=0e75b6&style=flat" alt="gemafauzi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gemafuaiz&label=Profil%20views&color=0e75b6&style=flat" alt="Rifki Gema Fauzi" /> <p>
 
 <p align="left"> <a href="https://twitter.com/gema33136813" target="blank"><img src="https://img.shields.io/twitter/follow/gema33136813?logo=twitter&style=for-the-badge" alt="gema33136813" /></a> </p>
 
